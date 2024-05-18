@@ -2,6 +2,9 @@ import streamlit as st
 import requests
 import json
 
+
+st.set_page_config(page_title="MLops Project",)
+
 st.title('Delhi house rent prediction')
 
 # Input features
