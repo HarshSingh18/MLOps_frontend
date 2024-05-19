@@ -26,8 +26,8 @@ if st.button('Predict'):
     else:
         st.error('Failed to get prediction')
 
-Created by -
-Anupam Dhiman
-Harsh Singh
-Lokesh Arora
-
+txt = st.text_area(
+    "Created By -"
+    "Anupam Dhiman"
+    "Harsh Singh"
+    "Lokesh Arora")
