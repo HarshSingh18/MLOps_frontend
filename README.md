@@ -11,7 +11,7 @@ This application is used to predict house rent prediction for the city of Delhi,
 
 This repository is for the frontend portion of the application and contains the streamlit_app.py file along with the dockerfile,render.yaml as well as the requirements.txt .
 
-* [Process Flow](#ProcessFlow)
+## Process Flow
 
 1). Added the sliders for the input features with range taken from the min and max values of the features in the dataset.
 
