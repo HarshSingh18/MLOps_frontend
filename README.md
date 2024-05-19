@@ -1,5 +1,5 @@
 # MLops_frontend
-### the frontend portion for the MLops project involving streamlit
+### The frontend portion for the MLops project involving streamlit is as follows
 
 ## Table of contents
 * [Overview](#overview)
